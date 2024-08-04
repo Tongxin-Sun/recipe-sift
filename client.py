@@ -64,6 +64,7 @@ elif choice == '3':
 
 print("Sending a request ...")
 
+time.sleep(5)
 while True:
     with open('communication.txt', 'r') as file:
         response = file.read()

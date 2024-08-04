@@ -1,0 +1,128 @@
+{
+    "Chicken Soup": {
+        "ingredients": [
+            {
+                "name": "Chicken breast",
+                "quantity": "1 pound"
+            },
+            {
+                "name": "Carrots",
+                "quantity": "3"
+            },
+            {
+                "name": "Celery",
+                "quantity": "3 stalks"
+            },
+            {
+                "name": "Onion",
+                "quantity": "1"
+            },
+            {
+                "name": "Chicken broth",
+                "quantity": "6 cups"
+            }
+        ],
+        "instructions": "Cook the chicken with vegetables in chicken broth until tender.",
+        "prep_time": "45"
+    },
+    "Chocolate Cake": {
+        "ingredients": [
+            {
+                "name": "Flour",
+                "quantity": "1.5 cups"
+            },
+            {
+                "name": "Cocoa powder",
+                "quantity": "0.5 cup"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Eggs",
+                "quantity": "2"
+            },
+            {
+                "name": "Butter",
+                "quantity": "0.5 cup"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1 cup"
+            }
+        ],
+        "instructions": "Mix ingredients and bake at 350\u63b3F for 30 minutes.",
+        "prep_time": "60"
+    },
+    "Guacamole": {
+        "ingredients": [
+            {
+                "name": "Avocados",
+                "quantity": "3"
+            },
+            {
+                "name": "Lime",
+                "quantity": "1"
+            },
+            {
+                "name": "Salt",
+                "quantity": "1 teaspoon"
+            },
+            {
+                "name": "Tomato",
+                "quantity": "1"
+            },
+            {
+                "name": "Onion",
+                "quantity": "0.5"
+            },
+            {
+                "name": "Cilantro",
+                "quantity": "2 tablespoons"
+            }
+        ],
+        "instructions": "Mash avocados and mix with other ingredients.",
+        "prep_time": "10"
+    },
+    "Lemonade": {
+        "ingredients": [
+            {
+                "name": "Lemons",
+                "quantity": "7"
+            },
+            {
+                "name": "Sugar",
+                "quantity": "3 cups"
+            }
+        ],
+        "instructions": "Squeeze lemons into a pitcher and stir in the sugar until fully dissolved",
+        "prep_time": "15"
+    },
+    "Pancakes": {
+        "ingredients": [
+            {
+                "name": "Flour",
+                "quantity": "2 cups"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1.5 cups"
+            },
+            {
+                "name": "Eggs",
+                "quantity": "2"
+            },
+            {
+                "name": "Baking powder",
+                "quantity": "2 teaspoons"
+            },
+            {
+                "name": "Salt",
+                "quantity": "0.5 teaspoon"
+            }
+        ],
+        "instructions": "Mix all ingredients in a bowl and cook on a hot griddle.",
+        "prep_time": "20"
+    }
+}

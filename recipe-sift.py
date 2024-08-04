@@ -75,7 +75,7 @@ def write_file_path(output_file):
 # Loop to continuously check for request messages.
 while True:
 
-    time.sleep(1)
+    time.sleep(3)
 
     request = read_request()
 
