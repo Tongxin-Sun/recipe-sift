@@ -29,4 +29,4 @@ After processing the recipes based on the request message, the microservice will
 
 Below is a simple UML for the microservice.
 
-![UML](UML.PNG)
+![UML](UML.png)
