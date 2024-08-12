@@ -15,11 +15,11 @@ def display_recipes(file_name):
         print(f"Name: {name}")
         print("• Ingredients:")
         for i in details["ingredients"]:
-            print(f"  {i["name"]}, {i["quantity"]}")
+            print(f"  {i['name']}, {i['quantity']}")
         print("• Instructions:")
-        print(f"  {details["instructions"]}")
+        print(f"  {details['instructions']}")
         print("• Preparation Time:")
-        print(f"  {details["prep_time"]}")
+        print(f"  {details['prep_time']}")
         print()
 
 
